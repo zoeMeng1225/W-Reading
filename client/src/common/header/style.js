@@ -55,15 +55,11 @@ export const NavItem = styled.div`
 export const NavSearch = styled.input.attrs({
   placeholder: 'Search'
 })`
-  width: 8em;
-  border-radius: 10px;
-  box-sizing: border-box;
-  border: 1px #f1f1f1 solid;
-  background: #f1f1f1;
-  padding: .4em 10px;
-  font-size: 14px;
-  height: 100%;
-  color: #999;
+width: 8em;
+border: transparent;
+background: transparent;
+font-size: 14px;
+color: #999;
   &:: placeholder{
     color: #999;
   }
@@ -91,7 +87,10 @@ export const NavSearch = styled.input.attrs({
 
 export const SearchWrapper = styled.div`
   float: left;
+  background: #f1f1f1;
   position: relative;
+  border-radius: 10px;
+  padding: 0 .5em;
  
 
   .zoom{cd
@@ -162,7 +161,7 @@ export const SearchInfoTitle = styled.div`
 `;
 
 export const SearchInfoUpdate = styled.div`
-    font-weight: 200
+    font-weight: 200;
     display: flex;
     line-height: 2;
     cursor:pointer;
