@@ -1,0 +1,44 @@
+{
+  "sucess" : true,
+  "data" : {
+      "id":1,
+      "title": "Becoming",
+      "brief" : "Number one New York Times best seller",
+      "name":"Michelle Obama",
+      "bookNum": 28,
+      "likes": "415k",
+      "imgUrl": "list1.jpg",
+      "follow": "71,020",
+      "avatar": "avatar7.jpg",
+      "content": "An intimate, powerful, and inspiring memoir by the former first lady of the United States.Number one New York Times best seller Watch the Emmy-nominated Netflix original documentary Oprah’s Book Club Pick NAACP Image Award Winner.One of Essence’s 50 most impactful Black books of the past 50 years.In a life filled with meaning and accomplishment, Michelle Obama has emerged as one of the most iconic and compelling women of our era. As first lady of the United States of America - the first African American to serve in that role - she helped create the most welcoming and inclusive White House in history while also establishing herself as a powerful advocate for women and girls in the US and around the world, dramatically changing the ways that families pursue healthier and more active lives, and standing with her husband as he led America through some of its most harrowing moments. Along the way, she showed us a few dance moves, crushed Carpool Karaoke, and raised two down-to-earth daughters under an unforgiving media glare.In her memoir, a work of deep reflection and mesmerizing storytelling, Michelle Obama invites listeners into her world, chronicling the experiences that have shaped her - from her childhood on the South Side of Chicago to her years as an executive balancing the demands of motherhood and work to her time spent at the world's most famous address. With unerring honesty and lively wit, she describes her triumphs and her disappointments, both public and private, telling her full story as she has lived it - in her own words and on her own terms. Warm, wise, and revelatory, Becoming is the deeply personal reckoning of a woman of soul and substance who has steadily defied expectations - and whose story inspires us to do the same.",
+      "related": [{
+        "id": "1",
+        "title": "Breaking Dawn",
+        "author": "Stephenie Meyer"
+      },{
+        "id": "2",
+        "title": "New Moon",
+        "author": "Stephenie Meyer"
+      },{
+        "id": "3",
+        "title": "The Host",
+        "author": "Stephenie Meyer"
+      },{
+        "id": "4",
+        "title": "Mockingjay",
+        "author": "Suzanne Collins"
+      },{
+        "id": "5",
+        "title": "Hunger Games",
+        "author": "Suzanne Collins"
+      },{
+        "id": "6",
+        "title": "Le Petit Nicolas",
+        "author": "René Goscinny, Sempé"
+      },{
+        "id": "7",
+        "title": "L'Étranger",
+        "author": "Albert Camus"
+      }]
+  }
+}
